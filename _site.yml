@@ -15,16 +15,16 @@ navbar:
       - text: Auditorio
         icon: fa-map-marker
         href: lugar.html
-    - text: "Registro"
-      href: fin_inscripciones.html
-    - text: "Trabajos"
-      href: trabajos.html
-    - text: "Fechas"
-      href: fechas.html
+    # - text: "Registro"
+    #   href: fin_inscripciones.html
+    # - text: "Trabajos"
+    #   href: trabajos.html
+    # - text: "Fechas"
+    #   href: fechas.html
     - text: "Comité"
       href: comites.html
-    - text: "Divulgación"
-      href: divulgacion.html
+    # - text: "Divulgación"
+    #   href: divulgacion.html
     - text: "Código de conducta"
       href: conducta.html
     - text: "FAQ"
